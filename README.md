@@ -5,7 +5,7 @@
  
 👩🏻‍💻 Foco e estudo dedicados em: **Desenvolvimento de software**
  
-📝 Foco atual: **JAVA, HTML5, CSS3 | React**
+📝 Foco atual: **JAVA, HTML5, CSS3, Javascript | Node.js**
  
 🎓 CST em **Gestão da Tecnologia da Informação** 
   
