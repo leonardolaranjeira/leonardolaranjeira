@@ -7,7 +7,7 @@
  
 📝 Foco e estudo dedicados em: **JAVA | HTML5, CSS3, JavaScript | Node.js**
  
-🎓 Cursando em **Engenharia de software**
+🎓 Cursando **Engenharia de Software** <br />
 🎓 Graduado em **Gestão da Tecnologia da Informação** 
   
  </div>
