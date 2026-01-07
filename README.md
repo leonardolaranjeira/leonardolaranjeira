@@ -25,4 +25,5 @@
 
  ### 📬 CONTATOS
 ✉️ [E-mail](mailto:leonardo02lfc@gmail.com) **|** 
-💻 [linkedin](https://www.linkedin.com/in/leonardo-laranjeira-796a391b7/)
+💻 [linkedin](https://www.linkedin.com/in/leonardo-laranjeira-796a391b7/) **|** 
+🚀 [portfólio](https://leonardolaranjeira.github.io/meuportfolio/)
