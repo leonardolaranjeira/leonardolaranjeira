@@ -3,9 +3,9 @@
 
 <div align="left"> 
  
-👩🏻‍💻 **DESENVOLVEDOR FULL STACK**
+👩🏻‍💻 **DESENVOLVEDOR BACKEND**
  
-📝 Foco e estudo dedicados em: **JAVA | HTML5, CSS3, JavaScript | Node.js**
+📝 Foco e estudo dedicados em: **JAVA, HTML5, CSS3, JavaScript, Node.js | Git, Github, MySQL | Clean code**
  
 🎓 Cursando **Engenharia de Software** <br />
 🎓 Graduado em **Gestão da Tecnologia da Informação** 
@@ -25,5 +25,5 @@
 
  ### 📬 CONTATOS
 ✉️ <a href="mailto:leonardo02lfc@gmail.com">E-mail</a> **|** 
-💻 <a href="https://www.linkedin.com/in/leonardo-laranjeira-796a391b7/" target="_blank" rel="noopener noreferrer">LinkedIn</a> **|** 
+💻 <a href="https://www.linkedin.com/in/leonardolaranjeira/" target="_blank" rel="noopener noreferrer">LinkedIn</a> **|** 
 🚀 <a href="https://leonardolaranjeira.github.io/meuportfolio/" target="_blank" rel="noopener noreferrer">Portfólio</a>
