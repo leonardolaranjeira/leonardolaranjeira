@@ -5,7 +5,7 @@
  
 👩🏻‍💻 **DESENVOLVEDOR BACKEND**
  
-📝 Foco e estudo dedicados em: **JAVA, HTML5, CSS3, JavaScript, Node.js | Git, Github, MySQL | Clean code**
+📝 Foco e estudo dedicados em: **JAVA, HTML5, CSS3, JavaScript, Node.js | Git, Github, SQL | Clean code**
  
 🎓 Cursando **Engenharia de Software** <br />
 🎓 Graduado em **Gestão da Tecnologia da Informação** 
@@ -17,6 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="32" height="32" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="32" height="32" />
